@@ -1,0 +1,1 @@
+worker: puthon telegramm.py
